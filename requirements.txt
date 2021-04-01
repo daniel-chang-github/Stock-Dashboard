@@ -1,12 +1,8 @@
+yfinance == 0.1.55
 streamlit ==  0.78.0
 pandas
 plotly
-
 requests
-
 plotly.graph_objects
 os
 datetime
-yfinance == 0.1.55
-
-
