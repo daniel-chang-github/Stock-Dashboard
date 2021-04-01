@@ -1,5 +1,6 @@
 yfinance == 0.1.55
 streamlit ==  0.78.0
+yahoo-fin==0.8.6
 pandas
 plotly
 requests
