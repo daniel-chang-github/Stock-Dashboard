@@ -7,3 +7,6 @@ tweepy
 plotly.graph_objects
 os
 datetime
+yfinance
+
+
