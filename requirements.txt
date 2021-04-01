@@ -4,3 +4,6 @@ plotly
 psycopg2
 requests
 tweepy
+plotly.graph_objects
+os
+datetime
