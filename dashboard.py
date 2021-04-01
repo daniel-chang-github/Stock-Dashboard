@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd 
 import numpy as np 
 import requests
-import tweepy
+
 import yfinance as yf
 import os
 import datetime 
