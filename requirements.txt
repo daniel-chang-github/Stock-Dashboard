@@ -3,6 +3,6 @@ streamlit ==  0.78.0
 pandas
 plotly
 requests
-plotly.graph_objects
+plotly
 os
 datetime
