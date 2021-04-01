@@ -1,12 +1,12 @@
-streamlit
+streamlit ==  0.78.0
 pandas
 plotly
-psycopg2
+
 requests
-tweepy
+
 plotly.graph_objects
 os
 datetime
-yfinance
+yfinance == 0.1.55
 
 
